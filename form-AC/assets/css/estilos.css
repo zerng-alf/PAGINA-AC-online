@@ -1,0 +1,321 @@
+.text-center1 {
+    text-align: -webkit-center;
+}
+/* CSS styles for the hero section */
+
+.hero3 {
+    background-image: 
+        url("/form-AC/5068978.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/* @media screen and (max-width: 500px) {
+    .hero2 {
+        background-image: linear-gradient(to bottom, rgba(100, 100, 100, 0.5), rgba(66, 67, 68, 0.8)), url("/img-header.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+    }
+}
+ */
+/*text*/
+.hero2 h1 {
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+    margin-bottom: 10px;
+}
+
+@media screen and (max-width: 1100px) {
+    .hero2 h1 {
+        font-size: 30px;
+        color: rgb(0, 0, 0);
+        margin-bottom: 10px;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .hero2 h1 {
+        font-size: 30px;
+        color: rgb(0, 0, 0);
+        margin-bottom: 10px;
+    }
+}
+
+
+.hero2 h2 {
+    font-size: 30px;
+    color: rgb(23, 162, 184);
+    margin-bottom: 10px;
+}
+
+@media screen and (max-width: 1100px) {
+    .hero2 h2 {
+        font-size: 10px;
+        color: rgb(23, 162, 184);
+        margin-bottom: 10px;
+    }
+}
+
+.hero2 h3 {
+    font-size: 24px;
+    color: rgb(23, 162, 184);
+}
+
+.hero-form2 label {
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #fff;
+}
+
+.hero-form2 input {
+    margin-bottom: 10px;
+    padding: 5px;
+    width: 50%;
+}
+
+.control {
+    margin-top: 5%;
+}
+
+@media screen and (max-width: 576px) {
+    .control2 {
+        margin-top: 50px;
+    }
+}
+
+
+.text-info {
+    margin-top: 10%;
+    text-align: center;
+}
+
+.container3 {
+    border-radius: 10px;
+    margin-top: 15vh;
+}
+
+#form{
+    border-radius: 10px;
+    padding: 30px 35px;
+    background-color: rgba(65, 93, 129, 0.63);
+    width: 400px;
+    box-shadow: 0 0 15px rgb(10, 15, 49);
+    margin: auto;
+    margin-bottom: 60px;
+}
+
+
+@media screen and (max-width: 414px) {
+    #form {
+        border-radius: 10px;
+        padding: 30px 35px;
+        background-color: rgba(65, 93, 129, 0.63);
+        width: 300px;
+        box-shadow: 0 0 15px rgb(10, 15, 49);
+        margin: auto;
+        margin-bottom: 60px;
+    }
+    
+}
+
+
+.form-group label {
+    display: block;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+#name,
+#email,
+#number,
+#dropdown,
+#most-like,
+#comments,
+#submit {
+    border: 0px;
+    border-radius: 5px;
+    min-width: 100%;
+    padding: 8px;
+    box-shadow: 0 0 5px rgb(42, 60, 95);
+    box-sizing: border-box;
+}
+
+/*button*/
+
+/* inspired form gumroad website */
+.button1  {
+    --bg: #47b2e4;
+    --hover-bg: #fff;
+    --hover-text: #000;
+    color: #fff;
+    border: 1px solid var(--bg);
+    border-radius: 4px;
+    padding: 0.8em 2em;
+    background: var(--bg);
+    -webkit-transition: 0.2s;
+    transition: 0.2s;
+    border-radius: 50px;
+    margin-left: 100px;
+}
+
+@media screen and (max-width: 414px) {
+    .button1 {
+        --bg: #47b2e4;
+        --hover-bg: #fff;
+        --hover-text: #000;
+        color: #fff;
+        border: 1px solid var(--bg);
+        border-radius: 4px;
+        padding: 0.8em 2em;
+        background: var(--bg);
+        -webkit-transition: 0.2s;
+        transition: 0.2s;
+        border-radius: 50px;
+        margin-left: 50px;
+    }
+}
+
+.button1:hover {
+    color: var(--hover-text);
+    -webkit-transform: translate(-0.25rem, -0.25rem);
+    -ms-transform: translate(-0.25rem, -0.25rem);
+    transform: translate(-0.25rem, -0.25rem);
+    background: var(--hover-bg);
+    -webkit-box-shadow: 0.25rem 0.25rem var(--bg);
+    box-shadow: 0.25rem 0.25rem var(--bg);
+}
+
+.button1:active {
+    -webkit-transform: translate(0);
+    -ms-transform: translate(0);
+    transform: translate(0);
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+/*button*/
+
+/* inspired form gumroad website */
+.button2 {
+    --bg: #47b2e4;
+    --hover-bg: #fff;
+    --hover-text: #000;
+    color: #47b2e4;
+    border: 1px solid var(--bg);
+    border-radius: 4px;
+    padding: 0.8em 2em;
+    /*  background: var(--bg); */
+    -webkit-transition: 0.2s;
+    transition: 0.2s;
+    border-radius: 50px;
+    margin-left: 50px;
+}
+
+.button2:hover {
+    color: var(--hover-text);
+    -webkit-transform: translate(-0.25rem, -0.25rem);
+    -ms-transform: translate(-0.25rem, -0.25rem);
+    transform: translate(-0.25rem, -0.25rem);
+    background: var(--hover-bg);
+    -webkit-box-shadow: 0.25rem 0.25rem var(--bg);
+    box-shadow: 0.25rem 0.25rem var(--bg);
+}
+
+.button2:active {
+    -webkit-transform: translate(0);
+    -ms-transform: translate(0);
+    transform: translate(0);
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+/*button*/
+
+/*abut us*/
+
+.card3 {
+    background-color: #f3f4f6;
+    /* Cambiar el tono de blanco o gris aquí */
+    padding: 2rem;
+    background: #fff;
+    max-width: 320px;
+    border-radius: 10px;
+    box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.1);
+    /* Agregar sombreado */
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    grid-gap: 1rem;
+    gap: 1rem;
+}
+
+.header .image {
+    /* height: 4rem; */
+    width: 4rem;
+    border-radius: 9999px;
+    object-fit: cover;
+    /*     background-color: royalblue; */
+    margin-left: 85px;
+}
+
+.stars svg {
+    height: 1rem;
+    width: 1rem;
+}
+
+.message {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    margin-top: 1rem;
+    color: rgba(107, 114, 128, 1);
+    text-align: -webkit-center;
+}
+
+.message-2 {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    margin-top: 1rem;
+    color: rgba(107, 114, 128, 1);
+    text-align: -webkit-center;
+}
+
+.cta2 .cta-btn {
+    font-family: "Jost", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 12px 40px;
+    border-radius: 50px;
+    transition: 0.5s;
+    /*  margin: 10px; */
+    /*  border: 2px solid #fff;  */
+    margin-right: 100px;
+    /*    color: #fff; */
+}
+
+
+
+/*img principal*/
+.img-ia {
+    margin-top: 6rem!important;
+}
+
+@media screen and (max-width: 500px) {
+    .img-ia {
+        margin-top: 0rem!important;
+        margin-top: 0rem!important;
+    }
+}
+
+@media screen and (max-width: 390px) {
+    .img-ia {
+        margin-top: 10px!important;
+
+    }
+}
