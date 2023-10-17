@@ -1,7 +1,7 @@
 {
     "id": 1,
     "img": "assets\\img\\News\\pandemia-tamaño.png",
-    "title": "Los efectos Post-Pandemia en las escuelas", 
+    "title": "Los efectos Post-Pandemia en las escuelas",
     "editor":"Vanne",
     "fecha": "1/6/2023",
     "content": [
@@ -16,25 +16,71 @@
     "secciones": [
         {
             "subtitulo": "Algunas medidas que las escuelas pueden implementar son:",
+            "texto": "",
             "puntos": [
                 "Plan de comunicación: Elaborar un plan detallado de cómo la escuela se comunicará con los estudiantes, los padres y el personal en caso de emergencia. Esto debe incluir protocolos de notificación y actualización, canales de comunicación y responsabilidades claras.",
                 "Capacitación del personal: Brindar capacitación constante al personal escolar sobre cómo responder en situaciones de emergencia. Esto incluye familiarizarse con las herramientas tecnológicas utilizadas para las clases y la gestión escolar.",
-                "Actualización tecnológica: Asegurarse de contar con la tecnología necesaria para permitir la educación en línea, la comunicación remota y la gestión interna. Esto implica acceso a internet de alta velocidad, computadoras portátiles, tabletas y software educativo. Existen aplicaciones web específicas que ayudan a las escuelas en todas las áreas."
+                "Punto 3",
+                "Punto 4",
+                "Punto 5",
+                "Punto 6",
+                "Punto 7",
+                "Punto 8",
+                "Punto 9",
+                "Punto 10"
             ],
-            "texto": "Si deseas implementar algunas herramientas mencionadas en este artículo, es fundamental utilizar la tecnología a tu favor. Con el software Academic + Control, podrás tener todo en un solo sistema."
-            
+            "contettitulo": "url del cliente 1"
         },
         {
-            "subtitulo": "Con este sistema automatizado tendrás:",
+            "subtitulo": "¿Qué es el RPA Educativo?",
+            "texto": "El Robotic Process Automation (RPA) se ha convertido en una herramienta de automatización que permite ",
             "puntos": [
-                "Acompañamiento y asesorías personalizadas antes, durante y después de la implementación",
-                "Acceso sin restricciones a los datos para realizar análisis de todas las áreas de la escuela.",
-                "Todas las herramientas que necesita tu institución sin costes ocultos.",
-                "Herramientas para la recuperación de cartera vencida."
+                "Punto 1",
+                "Punto 2",
+                "Punto 3",
+                "Punto 4",
+                "Punto 5",
+                "Punto 6",
+                "Punto 7",
+                "Punto 8",
+                "Punto 9",
+                "Punto 10"
             ],
-            "texto1": "¿Necesitas una solución todo en uno para gestionar tu escuela?",
-            "texto2": "¡Conoce nuestra plataforma de gestión escolar!",
-            "contettitulo": "Social, Pandemia"
+            "contettitulo": "url del cliente 11"
+        },
+        {
+            "subtitulo": "¿Qué es el RPA Educativo?",
+            "texto": "El Robotic Process Automation (RPA) se ha convertido en una herramienta de automatización que permite ",
+            "puntos": [
+                "Punto 1",
+                "Punto 2",
+                "Punto 3",
+                "Punto 4",
+                "Punto 5",
+                "Punto 6",
+                "Punto 7",
+                "Punto 8",
+                "Punto 9",
+                "Punto 10"
+            ],
+            "contettitulo": "url del cliente"
+        },
+        {
+            "subtitulo": "¿Qué es el RPA Educativo?",
+            "texto": "El Robotic Process Automation (RPA) se ha convertido en una herramienta de automatización que permite ",
+            "puntos": [
+                "Punto 1",
+                "Punto 2",
+                "Punto 3",
+                "Punto 4",
+                "Punto 5",
+                "Punto 6",
+                "Punto 7",
+                "Punto 8",
+                "Punto 9",
+                "Punto 10"
+            ],
+            "contettitulo": "url del"
         }
     ]
 }
