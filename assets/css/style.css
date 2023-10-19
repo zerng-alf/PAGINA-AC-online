@@ -3059,6 +3059,11 @@ a.btn:hover{
   font-weight: bold;
   color: #333;
 }
+.seccion .display-4 {
+  font-size: 20px;
+  font-weight: bold;
+  color: #333;
+}
 
 
 /* Estilo para los puntos de las secciones */

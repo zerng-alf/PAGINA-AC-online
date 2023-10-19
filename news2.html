@@ -402,13 +402,13 @@
 
         function rellenarfullplan() {
             $('#subject').val('Cotización: Full Plan');
-        };
+        }
     </script>
 
     <!-- Cargar el archivo JSON-->
     <script>
         // Cargar el archivo JSON
-        fetch("news2.json")
+        fetch("news-json/news2.json")
             .then(response => response.json())
             .then(data => {
                 // Actualizar el contenido en el HTML
