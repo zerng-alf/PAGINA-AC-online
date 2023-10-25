@@ -1,0 +1,73 @@
+{
+    "id": 1,
+    "img": "assets\\img\\News\\erp-tamaño.png",
+    "title": "¿Cómo sabes si necesitas un ERP en tu escuela?",
+    "editor":"Fernanda Domínguez",
+    "fecha": "20/6/2023",
+    "content": [
+        "En la era digital actual, los colegios se enfrentan a diversos retos administrativos y operativos. La administración eficiente de procesos es esencial para garantizar un entorno educativo ideal y adecuado tanto para estudiantes, docentes como para el personal administrativo. Es aquí donde un ERP puede marcar la diferencia.",
+        "Primero deberás pensar, ¿Qué problemas de forma operativa tiene tu institución educativa? Si a tu escuela le falta administración en el área de cobranza, facturación, necesitas que alguien gestione a los deudores. Déjame darte una solución a todos tus problemas lo que necesitas es un ERP, y si te estás preguntando ¿qué es eso? Aquí tengo la respuesta a tu pregunta.",
+        "Un ERP es un sistema integral que permite la automatización y centralización de numerosas tareas administrativas y académicas en una sola plataforma. Aquí te muestro algunos puntos claves de que ha llegado el momento de analizarlo:"
+    ],
+    "secciones": [
+        {
+            "subtitulo": "",
+            "puntos": [
+                "<strong>Crecimiento de la escuela:</strong> <br> Si tu escuela ha experimentado un aumento importante en el número de estudiantes, profesores y programas académicos, es posible que te encuentres lidiando con una carga administrativa cada vez mayor. Un ERP puede ayudarte a manejar hábilmente el movimiento de información, automatizar procesos como matrículas, programación de clases y gestión de calificaciones."
+                
+            ]
+            
+        },
+        {
+            "subtitulo": "",
+            "puntos": [
+                "<strong>Desafíos en la comunicación:</strong><br>La comunicación directa es fundamental en cualquier escuela. Si te encuentras con dificultades para mantener una comunicación precisa entre profesores, estudiantes, padres y personal administrativo, un ERP puede ser tu solución. Con instrumentos de mensajería integrada, calendarios compartidos y notificaciones automáticas, podrás mejorar la comunicación en todos los niveles."
+            ]
+            
+        },
+        {
+            "subtitulo": "",
+            "puntos": [
+                "<strong>Pérdida de tiempo en tareas manuales:</strong><br>¿Deseas encontrar una manera eficiente y efectiva de reducir la cantidad de tiempo que dedicas a tareas manuales y tediosas como generar informes, gestionar inventarios o mantener un seguimiento detallado del historial estudiantil? Un ERP puede automatizar estas actividades, liberando tiempo valioso que podrás dedicar a actividades más importantes, como planificar estrategias educativas, mejorar la calidad de las clases y brindar atención personalizada a los estudiantes."
+            ]
+            
+        },
+        {
+            "subtitulo": "",
+            "puntos": [
+                "<strong>Falta de visibilidad y toma de decisiones basadas en datos:</strong><br>¿Te gustaría contar con información en tiempo real para tomar decisiones informadas y estratégicas? Un ERP proporciona análisis y reportes detallados sobre el desempeño académico, asistencia, eficiencia operativa y mucho más. Esta información te ayudará a identificar áreas de mejora y tomar medidas proactivas para el éxito de la escuela."
+            ]
+            
+        },
+        {
+            "subtitulo": "",
+            "puntos": [
+                "<strong>Necesidad de integración y escalabilidad:</strong><br>Si actualmente utilizas diferentes sistemas y aplicaciones independientes para gestionar las diferentes áreas de la escuela, es probable que encuentres dificultades en la integración de datos y en la escalabilidad a medida en que tu escuela crece. Un ERP centraliza todas estas funciones en una única plataforma, permitiendo una gestión holística y eficiente."
+            ]
+            
+        },
+        {
+            "subtitulo": "",
+            "puntos": [],
+            "texto": "Finalmente, si experimentas un aumento significativo, desafíos en la comunicación, pérdida de tiempo en tareas manuales, falta de visibilidad o la necesidad de integración y escalabilidad, es el momento ideal para considerar la implementación de un ERP en tu escuela. No solo simplificará tus procesos administrativos, sino que también mejorará la eficiencia, calidad educativa y la toma de decisiones basadas en datos."
+        },
+        {
+            "subtitulo": "",
+            "puntos": [],
+            "texto": "Existen muchos ERP’s como Microsoft Dynamics 365, SAP HANA, NetSuite, Workday, Oracle. "
+        },
+        {
+            "subtitulo": "",
+            "puntos": [],
+            "texto": "Pero hoy, te presento a Academic+Control que tiene todo en uno. Academic+Control es un software que gestiona las áreas académicas, financieras, administrativas, recursos humanos, entre otras. Academic+Control se adapta de acuerdo a las necesidades de las instituciones educativas. Se encarga de que haya una comunicación fluida y eficaz entre la comunidad y el centro educativo. Además, sirve de acompañamiento en el proceso para mejorar, capacita al encargado de cada área, y recupera el 30% de la cartera vencida."
+        },
+        {
+            "subtitulo": "",
+            "puntos": [],
+            "texto": "",
+            "texto1": "Descubre ahora nuestro sistema de gestión escolar con Academic+Control.",
+            "texto2": "¡No te arrepentirás!",
+            "contettitulo": "Social, Pandemia"
+        }
+    ]
+}

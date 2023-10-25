@@ -1,0 +1,61 @@
+{
+    "id": 1,
+    "img": "assets\\img\\News\\portada de sistemas de gestión-tamaño.png",
+    "title": "Desafiando el desorden:<br> Sistemas de gestión para la excelencia en el control de inventarios",
+    "editor":"Vannesa Gumeta",
+    "fecha": "11/9/2023",
+    "content": [
+        "En el vertiginoso mundo empresarial actual, el control de inventarios es un desafío constante. Mantener un equilibrio entre la demanda del mercado, la disponibilidad de productos y la optimización de costos puede parecer una tarea abrumadora. Sin embargo, la clave para superar este desafío radica en la implementación efectiva de sistemas de gestión de inventarios."
+    ],
+    "secciones": [
+        {
+            "subtitulo": "La realidad del control de Inventarios",
+            "puntos": [],
+            "texto":"Las empresas a menudo se enfrentan a situaciones de caos cuando sus sistemas de control de inventarios son inadecuados o inexistentes. Las hojas de cálculo manuales y los métodos tradicionales ya no son suficientes para mantener el ritmo de las operaciones comerciales modernas. El resultado es un exceso de inventario, problemas de escasez, costos de almacenamiento innecesarios y una ineficiencia general que impacta en la rentabilidad y la satisfacción del cliente."
+            
+        },
+        {
+            "subtitulo": "El papel transformador de los sistemas de gestión de inventarios",
+            "puntos": [],
+            "texto":"Los sistemas de gestión de inventarios están revolucionando la forma en que las empresas enfrentan estos desafíos. Permiten la automatización de procesos, el seguimiento en tiempo real de las existencias y la planificación estratégica basada en datos precisos. Desde la recepción de productos hasta la entrega al cliente, estos sistemas actúan como un faro de control en medio del caos."
+            
+        },
+        {
+            "subtitulo": "¿Cómo los sistemas de gestión de inventarios cambian el juego?",
+            "puntos": [
+                "<strong>Precisión y visibilidad:</strong><br>Los sistemas modernos proporcionan una vista panorámica de todo el inventario disponible, lo que permite tomar decisiones informadas y evitar el exceso o la falta de productos.",
+                "<strong>Planificación estratégica:</strong><br>Con datos en tiempo real, las empresas pueden anticipar las fluctuaciones de la demanda y ajustar sus operaciones en consecuencia.",
+                "<strong>Reducción de costos:</strong><br>La optimización del inventario reduce los costos de almacenamiento, minimiza el desperdicio y libera capital para otros aspectos clave del negocio.",
+                "<strong>Mejora de la experiencia del cliente:</strong><br>La disponibilidad constante de productos y la entrega puntual generan confianza y satisfacción en los clientes.",
+                "<strong>Eficiencia operativa:</strong><br>La automatización de procesos libera tiempo y recursos, permitiendo a los empleados centrarse en tareas más estratégicas."
+                ],
+            "texto":""
+            
+        },
+        {
+            "subtitulo": "",
+            "puntos": [],
+            "texto":"Los sistemas de gestión de inventarios son la clave para transformar el caos en control en las operaciones empresariales. Estos sistemas no solo garantizan un inventario bien gestionado, sino que también impulsan la eficiencia, la rentabilidad y la satisfacción del cliente. Las empresas que reconocen el valor de esta transformación están en camino de crear un futuro más organizado, rentable y exitoso."
+            
+        },
+        {
+            "subtitulo": "",
+            "puntos": [],
+            "texto":"<strong>Academic+Control</strong> se erige como el compañero por excelencia para la efectiva gestión de inventario, respaldado por su innovadora integración modular. El destacado módulo de inventario no solo permite un seguimiento en tiempo real, sino que también posibilita el establecimiento de niveles óptimos con precisión milimétrica. En paralelo, el módulo de proveedores agiliza la gestión de relaciones comerciales desde su esencia hasta los aspectos operativos como órdenes y transacciones financieras."
+        },
+        {
+            "subtitulo": "",
+            "puntos": [],
+            "texto":"La sinergia magistral entre estos módulos constituye la esencia de la propuesta de <strong>Academic+Control</strong>. Al amalgamar estas funcionalidades, la plataforma da vida a un sistema cohesionado que asegura una administración de inventario fluida y precisa, modelando así la cadena de suministro hacia una optimización excepcional."
+            
+        },
+        {
+            "subtitulo": "",
+            "puntos": [],
+            "texto": "",
+            "texto1": "Descubre ahora nuestro sistema de gestión escolar con Academic+Control.",
+            "texto2": "¡No te arrepentirás!",
+            "enlace": "Social, Pandemia"
+        }
+    ]
+}

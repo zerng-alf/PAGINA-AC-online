@@ -1,0 +1,48 @@
+{
+    "id": 1,
+    "img": "assets\\img\\News\\portada admisión-tamaño.png",
+    "title": "¿Cómo un ERP educativo puede simplificar el proceso de admisión en tu colegio?",
+    "editor":"Fernanda Domínguez",
+    "fecha": "28/8/2023",
+    "content": [
+        "En el ambiente educativo actual, los centros educativos se enfrentan a retos cada vez mayores en la gestión capaz de sus procesos. Uno de los procedimientos más decisivos y complejos es el de admisión, que implica una serie de tareas administrativas y de comunicación con los aspirantes. Aquí es donde un sistema ERP educativo puede marcar una diferencia importante al facilitar y mejorar las funciones de admisión. En este artículo, vamos a explicar cómo un ERP puede cambiar la manera en que las instituciones gestionan el proceso de admisión."
+    ],
+    "secciones": [
+        {
+            "puntos": [
+                "<strong>Automatización de procesos</strong><br>Uno de los beneficios más importantes de un ERP educativo en el procedimiento de admisión es la automatización de tareas. En lugar de hacer los procesos manuales que gastan tiempo y son propensos a equivocaciones, un sistema ERP puede automatizar la captura de los formularios de solicitud, la validación de documentos y la formación de listas de admitidos y no admitidos. Esto no sólo incrementa el procedimiento, sino que también disminuye la probabilidad de errores humanos, mejorando la exactitud y confiabilidad de los datos.",
+                "<strong>Centralización de la información</strong><br>Un ERP educativo brinda una plataforma centralizada para almacenar y gestionar todos los datos relacionados con los aspirantes. En lugar de esparcir la información en diferentes archivos físicos, los datos se almacenan de manera organizada y accesible en un solo lugar. Esto agiliza la búsqueda y recuperación de información, facilitando que el personal de admisión ingrese de inmediato a los datos necesarios para tomar decisiones informadas.",
+                "<strong>Comunicación eficiente</strong><br>La comunicación con los aspirantes es primordial en el proceso de admisión. Un ERP educativo brinda herramientas de comunicación automatizadas, como correos electrónicos y mensajes, para informar a los candidatos sobre el estado de sus solicitudes, fechas límite y requisitos adicionales. Esto genera una experiencia más transparente y agradable para los aspirantes, al tiempo que aligera la carga de trabajo del personal de admisión al disminuir la necesidad de comunicación física.",
+                "<strong>Seguimiento y análisis</strong><br>Un ERP educativo permite a los centros educativos monitorear el progreso del proceso de admisión y obtener información valiosa. Esto permite a los centros educativos tomar decisiones informadas para mejorar el avance de trabajo y brindar una experiencia más efectiva a los aspirantes."
+            ],
+            "texto":""
+            
+        },
+        {
+            "subtitulo": "",
+            "puntos": [],
+            "texto":" La implementación de un sistema ERP educativo puede marcar una gran diferencia en la simplificación y mejora de las funciones de admisión en instituciones educativas. Desde la automatización de procesos hasta la centralización de información y la mejora de la comunicación, un ERP educativo ofrece una solución integral para optimizar el proceso de admisión."
+            
+        },
+        {
+            "subtitulo": "",
+            "puntos": [],
+            "texto":"Uno de los ERP educativos más conocidos en el mercado es <strong>Academic+Control</strong>, que revoluciona la forma en que se maneja el proceso de admisión. Con su enfoque innovador, simplifica cada etapa, desde la solicitud hasta la revisión de documentos, permitiendo una gestión más ágil y precisa."
+            
+        },
+        {
+            "subtitulo": "",
+            "puntos": [],
+            "texto":"Gracias a su interfaz intuitiva, padres y estudiantes pueden completar fácilmente los formularios en línea, mientras que el personal administrativo puede acceder a la información centralizada, agilizando la toma de decisiones. <strong>Academic+Control</strong> optimiza la experiencia de admisión, ahorrando tiempo y recursos para las instituciones educativas."
+            
+        },
+        {
+            "subtitulo": "",
+            "puntos": [],
+            "texto": "",
+            "texto1": "Descubre ahora nuestro sistema de gestión escolar con Academic+Control.",
+            "texto2": "¡No te arrepentirás!",
+            "enlace": "Social, Pandemia"
+        }
+    ]
+}

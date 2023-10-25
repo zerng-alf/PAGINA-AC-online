@@ -1,0 +1,37 @@
+{
+    "id": 1,
+    "img": "assets\\img\\News\\portada de gamificación-tamaño.png",
+    "title": "Innovando en el aula:<br> La gamificación como estrategia educativa", 
+    "editor":"Fernanda Domínguez",
+    "fecha": "07/08/2023",
+    "content": [
+        "En la actualidad es necesario encontrar diferentes técnicas de aprendizaje para estimular a los alumnos con el fin de conseguir mejores resultados, de esa manera pueden absorber mejor el conocimiento, y mejorar cualquier habilidad. ",
+        "Edu Trends (2016) menciona que:<br> “Gamificación es la aplicación de principios y elementos propios del juego en un ambiente de aprendizaje con el propósito de influir en el comportamiento, incrementar la motivación y favorecer la participación de los estudiantes”.",
+        "Basado en el artículo de la Universidad del Tecnológico de Monterrey por la autora Sandra Miranda Leal menciona una diferencia notable en el aprendizaje basado en  juegos como medios para incentivar a los alumnos para qué haya un balance entre el juego y el estudio. En otras palabras, si se ejecuta un memorama de verbos para la clase de inglés o una sopa de letras para la clase de Biología, no estoy aplicando Gamificación, sino aprendizaje basado en Juegos.",
+        "Por otra parte,  la gamificación en clase debe seguir los lineamientos de la escuela y el profesor a su cargo. También puede funcionar para que haya más unión entre los alumnos; por ejemplo, si a un estudiante le gusta trabajar solo se puede incentivar a que trabaje en equipo, de esta manera ganará una insignia.  El elemento de juego utilizado en este ejemplo está relacionado con la cooperación y el compromiso.",
+        "No debemos olvidar que ahora a nuestro alcance tenemos muchas técnicas de aprendizaje gracias a las Nuevas Tecnologías las cuáles debemos aprovechar, de esta manera quien saldrá ganando en todo esto serán nuestros alumnos. Los avances tecnológicos no paran y las escuelas se deben adaptar a los nuevos cambios de la tecnología así entre todos podemos seguir evolucionando y crear una nueva forma de aprendizaje no solo entre maestro y alumno sino en toda la comunidad estudiantil."
+    ],
+    "secciones": [
+        { 
+            "puntos": [],
+            "texto": "La gamificación es una poderosa estrategia educativa que puede transformar el aula en un entorno de aprendizaje emocionante y efectivo. Al aprovechar los elementos y dinámicas de los juegos, los educadores pueden mejorar la motivación, la participación y el rendimiento académico de sus estudiantes. La gamificación no solo hace que el aprendizaje sea más divertido, sino que también prepara a los estudiantes para enfrentar desafíos, trabajar en equipo y desarrollar habilidades clave para su futuro éxito. Al incorporar la gamificación de manera efectiva, los educadores pueden abrir nuevas puertas hacia un enfoque más innovador y atractivo en la educación."
+            
+        },
+        {
+            "puntos": [],
+            "texto": "<strong>Academic+Control</strong> puede recopilar y analizar datos sobre el rendimiento académico de los estudiantes en las actividades gamificadas. Esto permite a los educadores obtener una visión detallada del progreso de cada estudiante, identificar áreas de fortaleza y áreas que requieren apoyo adicional. Con esta información, los educadores pueden ajustar la gamificación para adaptarse a las necesidades individuales de cada estudiante y brindar retroalimentación personalizada. "
+            
+        },
+        {
+            "puntos": [],
+            "texto": "<strong>Academic+Control</strong> puede automatizar la entrega de recompensas, como insignias o puntos, cuando los estudiantes logran hitos específicos en su aprendizaje. Esto crea un entorno más interactivo y estimulante para los estudiantes, ya que reciben reconocimiento instantáneo por sus logros.",
+            "texto1": "Descubre ahora nuestro sistema de gestión escolar con Academic+Control.",
+            "texto2": "¡No te arrepentirás!",
+            "contettitulo": "Social, Pandemia"
+        },
+        {
+            
+           
+        }
+    ]
+}

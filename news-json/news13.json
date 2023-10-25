@@ -1,0 +1,54 @@
+{
+    "id": 1,
+    "img": "assets\\img\\News\\portada de integración-tamaño.png",
+    "title": "El futuro de la educación:<br>La integración de sistemas en el ERP.",
+    "editor":"Fernanda Domínguez",
+    "fecha": "25/9/2023",
+    "content": [
+        "En el sector educativo, la administración efectiva de recursos y datos representa un pilar fundamental para brindar una experiencia educativa de excelencia. Los  ERP diseñados específicamente para la educación se han consolidado como aliados esenciales en la búsqueda de este objetivo. A lo largo de este artículo, nos centraremos en la importancia  de la integración de sistemas en un ERP educativo, sus irremplazables ventajas y cómo contribuye al perfeccionamiento de la gestión y el desempeño de los centros educativos.",
+        "Los ERP educativos han evolucionado significativamente en los últimos años, pasando de ser sistemas de gestión administrativa a plataformas integrales que abarcan la gestión académica, financiera y de recursos humanos. Sin embargo, para maximizar su eficacia, es esencial que estos sistemas estén integrados de manera efectiva con otros sistemas y aplicaciones dentro del centro educativo."
+    ],
+    "secciones": [
+        {
+            "subtitulo": "Beneficios de la Integración de Sistemas en un ERP Educativo",
+            "puntos": [
+                "<strong>Corriente de datos continuo:</strong><br>La integración de sistemas facilita la fluidez constante de datos entre distintos sectores de la institución, tales como la administración, el cuerpo docente y los estudiantes. Este proceso asegura que la información se mantenga siempre al día y esté accesible en el momento en que sea requerida.",
+                "<strong>Automatización de procesos:</strong><br>La automatización de procesos administrativos, como la gestión de horarios, la asignación de aulas y la elaboración de la nómina del personal, disminuye significativamente la carga de trabajo manual y reduce al mínimo la probabilidad de cometer errores.",
+                "<strong>Mejora de la experiencia del usuario:</strong><br>La integración de sistemas agiliza el acceso a información crucial de forma rápida y sencilla para estudiantes, profesores y personal administrativo. Esto no solo mejora la experiencia del usuario, sino que también aumenta la eficiencia en sus tareas cotidianas.",
+                "<strong>Gestión financiera:</strong><br>La integración de sistemas financieros posibilita una gestión más precisa y eficaz de los recursos económicos, abarcando aspectos como el presupuesto, los gastos y la generación de informes financieros."
+            ],
+            "texto":""
+            
+        },
+        {
+            "subtitulo": "Beneficios de la Integración de Sistemas en un ERP Educativo",
+            "puntos": [
+                "<strong>Integración con sistemas de gestión del aprendizaje (LMS):</strong><br>Conectar el ERP educativo con un LMS permite una gestión más eficiente de contenidos educativos, seguimiento del progreso estudiantil y la comunicación entre profesores y alumnos.",
+                "<strong>Integración con plataformas de comunicación:</strong><br>La integración con sistemas de comunicación, como correo electrónico y mensajería instantánea, facilita la colaboración y la comunicación entre los miembros de la comunidad educativa.",
+                "<strong>Integración con sistemas de recursos humanos:</strong><br>Conectar el ERP educativo con sistemas de recursos humanos agiliza la gestión de contrataciones, nóminas y evaluaciones de personal docente y administrativo."
+            ],
+            "texto":""
+            
+        },
+        {
+            "subtitulo": "",
+            "puntos": [],
+            "texto":"La integración de sistemas en un ERP educativo es un paso esencial para maximizar la eficiencia y la calidad en la gestión de instituciones educativas. En la búsqueda constante de brindar a su colegio las herramientas necesarias para alcanzar el éxito, presentamos con orgullo <strong>Academic+Control</strong>, un ERP educativo diseñado para llevar la excelencia a cada rincón de su institución."
+            
+        },
+        {
+            "subtitulo": "",
+            "puntos": [],
+            "texto":"<strong>Academic+Control</strong> es mucho más que un simple sistema de información escolar (SIS) y un sistema de gestión del aprendizaje (LMS); es una solución integral que revolucionará la forma en que su colegio opera y enseña. Permítanos mostrarle cómo <strong>Academic+Control</strong> puede transformar su colegio. "
+            
+        },
+        {
+            "subtitulo": "",
+            "puntos": [],
+            "texto": "",
+            "texto1": "Descubre ahora nuestro sistema de gestión escolar con Academic+Control.",
+            "texto2": "¡No te arrepentirás!",
+            "enlace": "Social, Pandemia"
+        }
+    ]
+}

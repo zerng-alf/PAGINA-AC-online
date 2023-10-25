@@ -1,0 +1,55 @@
+{
+    "id": 1,
+    "img": "assets\\img\\News\\portada de artículo de robotica-tamaño.png",
+    "title": "Un nuevo horizonte educativo:<br> Cómo la robótica está revolucionando el aprendizaje de los niños",
+    "editor":"Fernanda Domínguez",
+    "fecha": "21/8/2023",
+    "content": [
+        "En un mundo donde la tecnología avanza a pasos veloces, la robótica ha surgido como una herramienta poderosa para mejorar la educación de los niños. Más allá de ser una moda, la robótica educativa ha demostrado su habilidad para motivar el aprendizaje, estimular habilidades clave y alistar a los niños para un futuro lleno de desafíos tecnológicos. En este artículo, vamos a explorar cómo la robótica está transformando el aprendizaje infantil y descubriendo oportunidades hacia nuevas formas de exploración e innovación."
+    ],
+    "secciones": [
+        {
+            "puntos": [
+                "<strong>Sumergiéndose en el aprendizaje práctico: Experiencias que transforman</strong><br>La robótica proporciona una plataforma única para el aprendizaje práctico. Los niños no solo se convierten en observadores inactivos, sino que se relacionan activamente con los robots que crean y programan. Esto fomenta la experimentación y el aprendizaje por medio de la realización, lo que les permite entender teorías científicas y matemáticas de manera real y divertida.",
+                "<strong>Cultivando el pensamiento lógico: Desatando habilidades para resolver problemas</strong><br>La programación de robots estimula el pensamiento lógico y la resolución de problemas desde que son pequeños. Los niños deben desglosar tareas en orden lógico, estructurar acciones y anticipar resultados. Estas habilidades son importantes en la solución de problemas en cualquier área y refuerzan su capacidad para enfrentar desafíos de manera estructurada.",
+                "<strong>Explorando la Creatividad y la Innovación</strong><br>La robótica abarca más que simplemente el seguimiento de instrucciones, sino de estimular la creatividad y la innovación. Los niños tienen la oportunidad de diseñar y personalizar sus propios robots, lo que activa su imaginación y les brinda la posibilidad de probar distintos enfoques. Esta libertad creativa no solo cultiva la confianza en sí mismos, sino que también nutre su disposición para explorar soluciones únicas.",
+                "<strong>Formación para el futuro en tecnología</strong><br>Estamos inmersos en una era tecnológica en evolución constante. La introducción temprana a la robótica y a la programación dota a los niños de destrezas digitales fundamentales para el futuro. Esto les ofrece una base sólida para asimilar conceptos tecnológicos más complejos y estar listos ante las posibilidades profesionales del futuro.",
+                "<strong>Motivación a través de la diversión</strong><br>La robótica emplea el juego como herramienta educativa, manteniendo a los niños involucrados y entusiasmados con su proceso de aprendizaje. Este enfoque basado en la diversión no solamente captura su interés, sino que también les brinda la oportunidad de experimentar sentimientos como la alegría de explorar, innovar y superar desafíos."
+            ],
+            "texto":""
+            
+        },
+        {
+            "subtitulo": "",
+            "puntos": [],
+            "texto":"En conclusión, la robótica ha dejado de ser un concepto vanguardista para transformarse en una realidad en el aula. La relación con robots no solo incentiva la curiosidad de los niños, sino que también les proporciona competencias esenciales para desarrollarse en un mundo cada vez más tecnológico."
+            
+        },
+        {
+            "subtitulo": "",
+            "puntos": [],
+            "texto":" La robótica no solo instruye a los niños sobre tecnología, sino que también les enseña cómo aprender, analizar y contribuir de manera efectiva. ¿Cuál es la manera de validar la incorporación de la robótica como herramienta educativa en las escuelas? "
+            
+        },
+        {
+            "subtitulo": "",
+            "puntos": [],
+            "texto":"Con el objetivo de abordar esta necesidad, nos complace presentarte <strong>Academic+Control</strong>: nuestra solución integral de ERP diseñada especialmente para la gestión educativa y el monitoreo de la implementación de la robótica como herramienta pedagógica.<br> Esta plataforma es la herramienta perfecta para asegurar una gestión eficiente de los recursos necesarios en la enseñanza de la robótica, abarcando aspectos como materiales, equipamiento, aulas y horarios. Esto garantiza la disponibilidad oportuna de recursos, simplificando la planificación de sesiones y actividades de robótica."
+            
+        },
+        {
+            "subtitulo": "",
+            "puntos": [],
+            "texto":"Con <strong>Academic+Control</strong>, tienes a tu disposición una herramienta que potenciará la administración de los procesos relacionados con la instrucción en robótica, optimizando la coordinación, el monitoreo del progreso y la comunicación entre todos los actores involucrados."
+            
+        },
+        {
+            "subtitulo": "",
+            "puntos": [],
+            "texto": "",
+            "texto1": "Descubre ahora nuestro sistema de gestión escolar con Academic+Control.",
+            "texto2": "¡No te arrepentirás!",
+            "enlace": "Social, Pandemia"
+        }
+    ]
+}

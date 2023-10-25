@@ -1,0 +1,47 @@
+{
+    "id": 1,
+    "img": "assets\\img\\News\\rendimiento docente-tamaño.png",
+    "title": "Mejorando la educación a través del seguimiento del rendimiento docente con un ERP educativo",
+    "editor":"Fernanda Domínguez",
+    "fecha": "02/10/2023",
+    "content": [
+        "La calidad de la educación es un aspecto crucial para el desarrollo de cualquier sociedad. En la búsqueda de una educación de alta calidad, uno de los factores más influyentes es la labor de los docentes.",
+        "Por este motivo, el seguimiento del desempeño docente se ha convertido en una herramienta fundamental para la constante mejora de la enseñanza. En este artículo, analizaremos cómo un sistema de gestión educativa puede transformar la manera en que se evalúa y potencia el rendimiento de los educadores en las instituciones educativas.<br> El papel del maestro en el proceso educativo nadie lo puede sustituir.",
+        "",
+        "Los docentes son quienes transmiten conocimientos, ajustan el temperamento de los alumnos y dejan una huella duradera en sus vidas. Por lo tanto, evaluar y optimizar su desempeño es fundamental para proteger  una educación de calidad.",
+        "Anteriormente, el seguimiento del rendimiento docente se ha basado en observaciones de aula, revisiones de planes de lecciones y retroalimentación esporádica. Sin embargo, este enfoque tiene limitaciones significativas. Es costoso, subjetivo y a menudo experimenta falta de datos en los objetivos para tomar decisiones informadas.",
+        "La implementación de un ERP educativo cambia radicalmente la forma en que se gestiona el rendimiento docente. A través de esta plataforma, las instituciones educativas pueden:"
+        ],
+    "secciones": [
+        {
+            "puntos": [
+                "<strong>Recopilar datos objetivos:</strong><br>Los ERP educativos permiten la recopilación de datos objetivos sobre el desempeño de los docentes, como cifras de asistencia, calificaciones de los estudiantes y cumplimiento de objetivos.",
+                "<strong>Automatizar evaluaciones:</strong><br>Los procesos de evaluación se vuelven más eficientes y precisos gracias a la automatización. Los docentes pueden recibir evaluaciones de colegas, directivos y estudiantes de manera sistemática y con un seguimiento en tiempo real.",
+                "<strong>Identificar áreas de mejora:</strong><br>Con los datos en tiempo real, las instituciones pueden identificar áreas en las que los docentes necesitan apoyo adicional y brindar una formación  específica.",
+                "<strong>Promover la transparencia:</strong><br>La transparencia en la evaluación del desempeño docente fomenta un ambiente de confianza y mejora la comunicación entre los miembros del personal y la dirección."
+            ],
+            "texto":""
+            
+        },
+        {
+            "subtitulo": "",
+            "puntos": [],
+            "texto":"El seguimiento del rendimiento docente es esencial para garantizar la calidad de la educación. La implementación de un ERP educativo ofrece una solución efectiva para abordar los desafíos tradicionales de esta tarea. "
+            
+        },
+        {
+            "subtitulo": "",
+            "puntos": [],
+            "texto":"Uno de los ERP educativos más conocidos en el mercado es <strong>Academic+Control</strong>, que revoluciona la forma en que se califica el rendimiento del docente. A través de la recopilación de datos objetivos y la automatización de procesos, puede mejorar la calidad de la enseñanza y, en última instancia, el éxito de sus estudiantes. "
+            
+        },
+        {
+            "subtitulo": "",
+            "puntos": [],
+            "texto": "",
+            "texto1": "Descubre ahora nuestro sistema de gestión escolar con Academic+Control.",
+            "texto2": "¡No te arrepentirás!",
+            "enlace": "Social, Pandemia"
+        }
+    ]
+}

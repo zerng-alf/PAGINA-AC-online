@@ -29,18 +29,11 @@
     <link href="assets/vendor/aos/aos.css" rel="stylesheet">
 
     <!-- Template Main CSS File -->
-    <link href="/assets/css/style.css" rel="stylesheet">
+    <link href="assets/css/style.css" rel="stylesheet">
 
-    <!-- =======================================================
-    * Template Name: Arsha - v2.2.0
-    * Template URL: https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/
-    * Author: BootstrapMade.com
-    * License: https://bootstrapmade.com/license/
-    ======================================================== -->
 </head>
 
 <body>
-
     <!-- ======= Header ======= -->
     <header id="header" class="fixed-top " style="background: rgba(40, 58, 90, 0.9);">
         <div class="container d-flex align-items-center">
@@ -73,24 +66,9 @@
     </header><!-- End Header -->
 
     <main id="main">
-        <!-- ======= Breadcrumbs ======= -->
-        <!--         <div class="breadcrumbs">
-          <div class="page-header d-flex align-items-center" style="background-image: url('');">
-            <div class="container position-relative">
-              <div class="row d-flex justify-content-center">
-                <div class="col-lg-6 text-center">
-                  <h2>Blog Details</h2>
-                  <p>Odio et unde deleniti. Deserunt numquam exercitationem. Officiis quo odio sint voluptas consequatur ut a odio voluptatem. Sit dolorum debitis veritatis natus dolores. Quasi ratione sint. Sit quaerat ipsum dolorem.</p>
-                </div>
-              </div>
-            </div>
-          </div>
-          <nav>
-        </div> -->
-        <!-- End Breadcrumbs -->
-
         <!-- ======= Blog Details Section ======= -->
         
+
 
 <section id="blog" class="blog">
 <div class="container " data-aos="fade-up">
@@ -246,8 +224,10 @@
 </div>
 </section>
 
+
 <!-- End Blog Details Section -->
-    </main><!-- End #main --><!-- End #main -->
+    </main><!-- End #main -->
+
     <!-- ======= Footer ======= -->
     <footer id="footer">
         <div class="footer-top" style="background: #37517e;">
@@ -328,6 +308,7 @@
             </div>
         </div>
     </footer><!-- End Footer -->
+
     <!-- widgets -->
     <!-- Flecha azul -->
     <a href="#" class="back-to-top">
@@ -396,9 +377,10 @@
     </script>
 
     <!-- Cargar el archivo JSON-->
+    <!-- Cargar el archivo JSON-->
     <script>
         // Cargar el archivo JSON
-        fetch("news-json/news1.json")
+        fetch("news-json/news9.json")
             .then(response => response.json())
             .then(data => {
                 // Actualizar el contenido en el HTML
@@ -406,7 +388,7 @@
                 document.getElementById("editor").textContent = data.editor;
 
                 const titleElement = document.getElementById("title");
-                titleElement.textContent = data.title;
+                titleElement.innerHTML = data.title; // Use innerHTML to render HTML within the title
 
                 document.getElementById("fecha").textContent = data.fecha;
 
@@ -428,19 +410,22 @@
                     subtituloElement.textContent = seccion.subtitulo;
 
                     const textoElement = document.createElement("p");
-                    textoElement.textContent = seccion.texto
+                    textoElement.innerHTML = seccion.texto;
 
-                    const texto1Element = document.createElement("display-3");
+                    const texto1Element = document.createElement("p");
                     texto1Element.textContent = seccion.texto1;
+                    texto1Element.classList.add("display-3"); // Agrega la clase "display-4"
+                    texto1Element.style.marginBottom = "5px"; // Agrega estilo margin-bottom: 5px
 
-                    const texto2Element = document.createElement("display-4");
+                    const texto2Element = document.createElement("p");
                     texto2Element.textContent = seccion.texto2;
+                    texto2Element.classList.add("display-4"); // Agrega la clase "display-4"
 
                     const puntosElement = document.createElement("ul");
 
                     seccion.puntos.forEach(punto => {
                         const puntoElement = document.createElement("li");
-                        puntoElement.textContent = punto;
+                        puntoElement.innerHTML = punto;
                         puntosElement.appendChild(puntoElement);
                     });
 
@@ -455,8 +440,17 @@
                     seccionElement.appendChild(contettituloElement);
                     seccionesContainer.appendChild(seccionElement);
                 });
+
+                // Aquí dentro puedes acceder a data.content2 y realizar las operaciones que necesites.
+                const content2 = document.getElementById("content2");
+                data.content2.forEach(parrafo => {
+                    const parrafoElement = document.createElement("p");
+                    parrafoElement.textContent = parrafo;
+                    content2.appendChild(parrafoElement);
+                });
             });
     </script>
+
     <!-- Cargar el archivo JSON-->
 
     <!-- Js envio de correo-->

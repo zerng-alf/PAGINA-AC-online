@@ -3054,13 +3054,24 @@ a.btn:hover{
   color: #333;
 }
 
-.seccion display-4 {
+.seccion display-3 {
   font-size: 20px;
   font-weight: bold;
   color: #333;
 }
-.seccion .display-4 {
+.seccion .display-3 {
   font-size: 20px;
+  font-weight: bold;
+  color: #333;
+}
+
+.seccion display-4 {
+  font-size: 25px;
+  font-weight: bold;
+  color: #333;
+}
+.seccion .display-4 {
+  font-size: 25px;
   font-weight: bold;
   color: #333;
 }
@@ -3075,5 +3086,28 @@ a.btn:hover{
 /* Estilo para los enlaces en secciones */
 .seccion a {
   text-decoration: none;
+  color: #333;
+}
+
+/* Estilo para la fot del vededor*/
+.portfolio .portfolio-wrap .portfolio-info h4 a {
   color: #0077b6;
+  transition: 0.3s;
+}
+
+.blog  .post-author-img {
+  width: 50px;
+  border-radius: 50%;
+  margin-right: 15px;
+}
+
+.blog  .post-author-list {
+  font-weight: 600;
+  margin-bottom: 5px;
+}
+
+.blog .post-date {
+  font-size: 14px;
+  color: #3c3c3c;
+  margin-bottom: 0;
 }

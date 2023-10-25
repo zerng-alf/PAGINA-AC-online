@@ -1,0 +1,48 @@
+{
+    "id": 1,
+    "img": "assets\\img\\News\\portada de recusos humanos-terminado.png",
+    "title": "Simplifica la gestión escolar:<br>Un vistazo al RPA en los ERPs educativos.", 
+    "editor":"Fernanda Domínguez",
+    "fecha": "09/10/2023",
+    "content": [
+        "En un mundo en donde la tecnología avanza cada día que pasa, la educación no se queda atrás. El aprendizaje automatizado, conocido como RPA, se ha convertido en una fuerza impulsora que está transformando radicalmente la forma en que los estudiantes y educadores interactúan con el conocimiento. En este artículo, descubriremos cómo el RPA está cambiando el panorama educativo y mejora el camino hacia una experiencia de aprendizaje más eficiente y efectiva."
+    ],
+    "secciones": [
+        {
+            "subtitulo": "¿Qué es el RPA Educativo?",
+            "puntos": [],
+            "texto": "El RPA educativo es la ejecución de la automatización de procesos robóticos en el entorno educativo para simplificar tareas administrativas, mejorar la personalización del aprendizaje y optimizar tiempo para la enseñanza creativa. Esta innovación utiliza robots de software para realizar tareas repetitivas y basadas en reglas, permitiendo que educadores y estudiantes se concentren en actividades más significativas."
+            
+        },
+        {
+            "subtitulo": "Simplificando la administración escolar",
+            "puntos": [],
+            "texto": "Una de las características más importantes del RPA educativo es su capacidad para automatizar las actividades administrativas. Desde la inscripción de estudiantes hasta la gestión de registros académicos y la generación de informes, los robots de software pueden realizar estas tareas de manera más rápida y precisa que los humanos. Esto libera tiempo para que los educadores se enfoquen en la planificación de lecciones y el apoyo individualizado a los estudiantes."
+            
+        },
+        {
+            "subtitulo": "Acceso a la educación en cualquier momento",
+            "puntos": [],
+            "texto": "La automatización no se restringe únicamente a las tareas administrativas. La RPA también habilita la creación de plataformas de aprendizaje en línea altamente interactivas. Esto posibilita que los estudiantes tengan acceso a contenido educativo de alta calidad en cualquier momento y desde cualquier lugar, lo que conlleva a que el proceso de aprendizaje sea mucho más accesible, especialmente para aquellos que se enfrentan a limitaciones geográficas o restricciones de tiempo."
+            
+        },
+        {
+            "puntos": [],
+            "texto": "El RPA educativo está desencadenando una auténtica revolución en la forma en que concebimos el proceso de aprender y enseñar. Al automatizar de manera eficiente las tareas administrativas, ofrecer un aprendizaje altamente personalizado y ampliar el acceso a la educación, esta tecnología trae consigo la promesa de un futuro educativo emocionante y mucho más eficaz."
+            
+        },
+        {
+            "puntos": [],
+            "texto": "Uno de los ERP educativos más reconocidos en el mercado es <strong>Academic+Control</strong>, y su distintiva característica esencial es la automatización, la cual está pasando de ser una novedad a convertirse en la norma en las aulas.<br> Con <strong>Academic+Control</strong>, estamos dando un audaz paso adelante hacia un tipo de aprendizaje que es no solo más inteligente en su enfoque, sino también más significativo para cada estudiante. El futuro de la educación ya está aquí, y se presenta ante nosotros en forma de automatización."
+            
+        },
+        {
+            "subtitulo": "",
+            "puntos": [],
+            "texto": "",
+            "texto1": "Descubre ahora nuestro sistema de gestión escolar con Academic+Control.",
+            "texto2": "¡No te arrepentirás!",
+            "enlace": "Social, Pandemia"
+        }
+    ]
+}

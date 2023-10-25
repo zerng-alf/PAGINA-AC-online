@@ -1,0 +1,39 @@
+{
+    "id": 1,
+    "img": "assets\\img\\News\\portada seguridad de datos-tamaño.png",
+    "title": "La importancia de la seguridad de datos en un ERP educativo",
+    "editor":"Fernanda Domínguez",
+    "fecha": "14/8/2023",
+    "content": [
+        "En la actualidad, vivir en un mundo digitalizado y altamente interconectado cobra una relevancia sin precedentes, especialmente para los centros educativos, los cuales han adquirido una importancia destacada en diversos sectores, incluyendo el ámbito educativo. En este contexto, contar con un ERP educativo se convierte en una necesidad imperiosa.",
+        "Los ERP educativos son herramientas integradas que simplifican la administración y organización de instituciones educativas, optimizando procesos, gestionando datos y fomentando una comunicación eficiente. Su implementación permite una gestión más eficaz de los recursos y facilita el acceso a información clave para la toma de decisiones estratégicas.",
+        "La seguridad de datos en un ERP educativo es un aspecto fundamental que debe considerar con la mayor exactitud y atención, dado que estas plataformas contienen información privada y sensible sobre estudiantes, personal docente, administrativo y datos financieros. Preservar la integridad de esta información no solo es una cuestión de cumplimiento legal y ético, sino que también es importante proteger la privacidad de las personas para mantener la confianza en la institución educativa."
+    ],
+    "secciones": [
+        {
+            "subtitulo": "Riesgos asociados a la falta de seguridad en un ERP educativo",
+            "puntos": [
+                "<strong>Personalización del aprendizaje:</strong><br>La IA tiene la capacidad de adaptarse y personalizar el proceso de aprendizaje de acuerdo con las necesidades y habilidades individuales de cada estudiante. Esto permite un enfoque más centrado en el estudiante, optimizando su rendimiento académico.",
+                "<strong>Pérdida de confianza:</strong><br>Un descuido de seguridad podría perder la confianza de estudiantes, padres y empleados en la institución educativa, lo que podría tener un impacto negativo en su reputación.",
+                "<strong>Incumplimiento de regulaciones:</strong><br>En muchos países, existen leyes y regulaciones estrictas sobre la protección de datos y la privacidad en el sector educativo. ",
+                "<strong>Dificultades para el aprendizaje en línea:</strong><br>Con el aumento de la educación en línea, los ERP educativos son vitales para el funcionamiento de las plataformas de aprendizaje digital"
+            ],
+            "texto":""
+            
+        },
+        {
+            "subtitulo": "",
+            "puntos": [],
+            "texto":"La seguridad de datos en un ERP educativo es nuestra principal preocupación, ya que buscamos proteger la confidencialidad, integridad y disponibilidad de la información crítica. Por esta razón, queremos presentarte Academic+Control, nuestro completo ERP especializado en la gestión escolar y en el cuidado de los datos de tu escuela.<br> Esta plataforma es exactamente lo que necesitas para garantizar la protección de los datos de tus alumnos, padres y personal administrativo"
+            
+        },
+        {
+            "subtitulo": "",
+            "puntos": [],
+            "texto": "No pierdas más tiempo buscando opciones, no permitas que otras personas pongan en riesgo la seguridad de tus datos. Con Academic+Control, tendrás la tranquilidad y la certeza de que tus datos estarán en buenas manos.",
+            "texto1": "Descubre ahora nuestro sistema de gestión escolar con Academic+Control.",
+            "texto2": "¡No te arrepentirás!",
+            "enlace": "Social, Pandemia"
+        }
+    ]
+}
