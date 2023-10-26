@@ -3082,6 +3082,10 @@ a.btn:hover{
   list-style-type: disc;
   margin: 10px 0;
 }
+.seccion ul li {
+  list-style-type: disc;
+  margin: 7px 0;
+}
 
 /* Estilo para los enlaces en secciones */
 .seccion a {

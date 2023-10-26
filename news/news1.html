@@ -87,7 +87,7 @@
                             <h1 class="title pt-3" id="title"></h1>
                             <div class="meta-top">
                                 <ul class="row">
-                                    <li class="d-flex align-items-center col-2"><i class="bi bi-person"></i> <a href=""
+                                    <li class="d-flex align-items-center col-5"><i class="bi bi-person"></i> <a href=""
                                             id="editor" class="pl-2"></a></li>
                                     <li class="d-flex align-items-center col-5"><i class="bi bi-clock"></i> <a
                                             href=""><time datetime="" id="fecha" class="pl-2"></time></a>
@@ -115,7 +115,7 @@
                             <div class="meta-bottom">
                                 <div class="row">
                                     <div class="d-flex align-items-center col-6">
-                                        <img src="blog-author-2.jpg" alt=""
+                                        <img src="foto-fer.png" alt=""
                                             class="img-fluid post-author-img flex-shrink-0">
                                         <div class="post-meta">
                                             <p class="post-author-list">Maria Doe</p>
@@ -428,8 +428,10 @@
                     seccion.puntos.forEach(punto => {
                         const puntoElement = document.createElement("li");
                         puntoElement.textContent = punto;
+                        puntosElement.style.marginBottom = "5px"; // Aplica el estilo margin-bottom a cada <li>
                         puntosElement.appendChild(puntoElement);
                     });
+
 
                     const contettituloElement = document.createElement("a");
                     contettituloElement.href = seccion.contettitulo;
