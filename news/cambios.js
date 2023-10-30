@@ -8,14 +8,9 @@ const fs = require('fs');
 // El nuevo div que quieres insertar.
 const newDiv = 
 `
-<div class="meta-top">
-                                <ul class="row">
-                                    <li class="d-flex align-items-center col-5"><i class="bi bi-person"></i> <a href=""
-                                            id="editor" class="pl-2"></a></li>
-                                    <li class="d-flex align-items-center col-5"><i class="bi bi-clock"></i> <a
-                                            href=""><time datetime="" id="fecha" class="pl-2"></time></a>
-                                    </li>
-                                </ul>
+<div class="text-center">
+                                <a id="btnNews" href="index.html#contact"
+                                    class="get-started-btn scrollto mb-3 mt-2 ">Contáctanos</a>
                             </div>
 `;
 
@@ -27,7 +22,7 @@ fs.readdirSync('./').forEach((file) => {
 
         // Reemplaza el div existente con el nuevo div.
         html = html.replace(
-            /<div class="meta-top">.*?<\/div>/s,
+            /<div class="text-center">.*?<\/div>/s,
             newDiv
         );
 
