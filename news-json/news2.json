@@ -1,9 +1,7 @@
 {
     "id": 1,
     "img": "assets\\img\\News\\DE CHATGTP-tamaño.png",
-    "title": "¿Cuáles son los beneficios del uso del Chat GPT como herramienta en la educación?", 
-    "editor":"Fernanda Domínguez",
-    "fecha": "2/5/2023",
+    "title": "¿Cuáles son los beneficios del uso del Chat GPT como herramienta en la educación?",
     "content": [
         
         "Primero comenzaremos a decir ¿Qué es el ChatGTP? Es un sistema de chat gratuito con inteligencia artificial que funciona mientras entablas una conversación donde le das órdenes sobre lo que quieres que haga es  muy eficaz en diferentes ámbitos, pero… ¿Será capaz de ayudar a la educación básica, media y superior? ¿Cómo podemos utilizarlo en las clases?",
@@ -31,5 +29,8 @@
             "texto2": "¡Conoce nuestra plataforma de gestión escolar!",
             "contettitulo": "Social, Pandemia"
         }
-    ]
+    ],
+     
+    "editor":"Fernanda Domínguez",
+    "fecha": "2/5/2023"
 }

@@ -1,9 +1,7 @@
 {
     "id": 1,
     "img": "assets\\img\\News\\pandemia-tamaño.png",
-    "title": "Los efectos Post-Pandemia en las escuelas", 
-    "editor":"Vanessa Gumeta",
-    "fecha": "1/6/2023",
+    "title": "Los efectos Post-Pandemia en las escuelas",
     "content": [
         
         "Con la finalización de la pandemia de COVID-19 en México, la transformación hacia la nueva normalidad en la que vivimos, trabajamos y estudiamos ya es un hecho. En el ámbito educativo, las escuelas y universidades de todo el mundo enfrentan el desafío de adaptarse a nuevas formas de enseñanza y aprendizaje, implementando la educación a distancia y la tecnología digital.",
@@ -36,5 +34,8 @@
             "texto2": "¡Conoce nuestra plataforma de gestión escolar!",
             "contettitulo": "Social, Pandemia"
         }
-    ]
+    ],
+     
+    "editor":"Vanessa Gumeta",
+    "fecha": "1/6/2023"
 }
